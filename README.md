@@ -5,7 +5,13 @@
 Full Stack Developer with 1 year of experience in designing, developing, and implementing scalable web applications 
 using modern technologies.
 
-Skills:  Back-End: ASP.NET Core, C#, Web API, Entity Framework Core, SQL Server  Front-End: HTML5, CSS3, JavaScript, Bootstrap, Angular (Fundamentals)  Tools: Git, GitHub, Visual Studio, SQL Server Management Studio  Design Patterns: Repository Pattern, CQRS, Unit of Work  Methodologies: RESTful API design, MVC architecture
+Skills: 
+Back-End: 
+* ASP.NET Core
+* C#
+*  Web API
+*   Entity Framework Core
+*    SQL Server  Front-End: HTML5, CSS3, JavaScript, Bootstrap, Angular (Fundamentals)  Tools: Git, GitHub, Visual Studio, SQL Server Management Studio  Design Patterns: Repository Pattern, CQRS, Unit of Work  Methodologies: RESTful API design, MVC architecture
 
 - 🔭 I’m currently working on Freelance 
 
