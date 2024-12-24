@@ -1,12 +1,18 @@
-### Hi there 👋, my name is Mina Salah
-#### I am full stack developer
-Full Stack Developer with 1 year of experience in designing, developing, and implementing scalable web applications 
-using modern technologies.
-
-Skills:  Back-End: ASP.NET Core, C#, Web API, Entity Framework Core, SQL Server  Front-End: HTML5, CSS3, JavaScript, Bootstrap, Angular (Fundamentals)  Tools: Git, GitHub, Visual Studio, SQL Server Management Studio  Design Patterns: Repository Pattern, CQRS, Unit of Work  Methodologies: RESTful API design, MVC architecture
-
-- 🔭 I’m currently working on Freelance 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/mina-salah-sadik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook.com/mina.salah.3572)  
-
+name: GitHub Actions Demo
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
