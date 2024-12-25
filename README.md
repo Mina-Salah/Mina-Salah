@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/mina-salah-sadik-0340a81b2](https://www.linkedin.com/in/mina-salah-sadik/)" target="_blank"><img src="https://img.shields.io/badge/-Nashed%20Fekry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mina-salah-sadik-0340a81b2" target="_blank"><img src="https://img.shields.io/badge/-Nashed%20Fekry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/nashedfekry" target="_blank"><img src="https://img.shields.io/badge/-Nashed%20Fekry-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 
